@@ -29,13 +29,23 @@
 </p>
 
 ---
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivayogiAM&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShivayogiAM&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShivayogiAM&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivayogiAM&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivayogiAM&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivayogiAM&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
 ---
 
-### 🐍 Contribution Snake:
-![snake gif](https://github.com/ShivayogiAM/ShivayogiAM/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/ShivayogiAM/ShivayogiAM/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
