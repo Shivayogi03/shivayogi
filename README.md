@@ -31,20 +31,20 @@
 ---
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivayogiAM&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivayogi03&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivayogiAM&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivayogi03&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivayogiAM&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivayogi03&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/ShivayogiAM/ShivayogiAM/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Shivayogi03/Shivayogi03/blob/output/github-contribution-grid-snake.svg)
 
 
