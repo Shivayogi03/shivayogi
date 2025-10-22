@@ -45,6 +45,6 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/Shivayogi03/Shivayogi03/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Shivayogi03/Shivayogi/blob/output/github-contribution-grid-snake.svg)
 
 
